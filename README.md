@@ -39,19 +39,16 @@ Example usage:
 
 - Analyze a single hash:
     
-    phpCopy code
     
     `python ALAKAZAM.py -h <hash_value>`
     
 - Analyze hashes from a file:
     
-    bashCopy code
     
     `python ALAKAZAM.py -f <path/to/file>`
     
 - Display the help message:
     
-    bashCopy code
     
     `python ALAKAZAM.py -help`
     
