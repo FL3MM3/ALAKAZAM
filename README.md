@@ -8,27 +8,23 @@ To install and run the program, follow these steps:
 
 1. **Clone the repository:**
     
-    bashCopy code
     
     `git clone https://github.com/FL3MM3/alakazam.git`
     
 2. **Navigate to the project directory:**
     
-    bashCopy code
     
     `cd alakazam`
     
 3. **Install dependencies (Colorama):**
     
-    Copy code
     
     `pip install colorama`
     
 4. **Run the program:**
     
-    cssCopy code
     
-    `python alakazam.py [options]`
+    `python ALAKAZAM.py [options]`
     
 
 ## Usage
@@ -45,19 +41,19 @@ Example usage:
     
     phpCopy code
     
-    `python alakazam.py -h <hash_value>`
+    `python ALAKAZAM.py -h <hash_value>`
     
 - Analyze hashes from a file:
     
     bashCopy code
     
-    `python alakazam.py -f <path/to/file>`
+    `python ALAKAZAM.py -f <path/to/file>`
     
 - Display the help message:
     
     bashCopy code
     
-    `python alakazam.py -help`
+    `python ALAKAZAM.py -help`
     
 
 ## Author
